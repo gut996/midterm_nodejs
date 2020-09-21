@@ -1,10 +1,10 @@
  midterm_nodejs_StoryBooks
 
-# Install dependencies
+## Install dependencies
 npm install
 
-# Run in development
+## Run in development
 npm run dev
 
-# Copyright 
+## Copyright 
 Brad Traversy
