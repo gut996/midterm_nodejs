@@ -1,4 +1,4 @@
-## midterm_nodejs_StoryBooks
+## Midterm_nodejs_StoryBooks
 
 ## Usage
 Add your mongoDB URI and Google OAuth credentials to the config.env file
