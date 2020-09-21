@@ -1,8 +1,8 @@
- midterm_nodejs_StoryBooks
+## midterm_nodejs_StoryBooks
 
-Usage
+## Usage
 Add your mongoDB URI and Google OAuth credentials to the config.env file
-
+```
 # Install dependencies
 npm install
 
@@ -11,6 +11,7 @@ npm run dev
 
 # Run in production
 npm start
+```
 
 ## Copyright 
 Brad Traversy
